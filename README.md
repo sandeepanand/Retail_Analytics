@@ -32,7 +32,7 @@ Historical sales data, which covers to 2010-02-05 to 2012-11-01. Within this tab
 <br> Weekly_Sales -  sales for the given department in the given store
 <br> IsHoliday - whether the week is a special holiday week
 
-Tasks
+# Tasks
 
 1. Run a ANOVA-test to determine the Significant groups between Holiday v/s No-Holiday
 2. Perform EDA to determine the aggregated sales(Sum & Avg) per store for each-year(52-weeks). Using this result, also identify whether the Sales were high during Holiday or No-Holiday by each year
